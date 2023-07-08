@@ -1,0 +1,19 @@
+name = "mousetrap_windows_jll"
+uuid = "1923bf96-b834-50bb-8499-88d15429481f"
+version = "0.1.0+0"
+
+[deps]
+OpenGLMathematics_jll = "cc7be9be-d298-5888-8f50-b85d5f9d6d73"
+X11_jll = "546b0b6d-9ca3-5ba2-8705-1bc1841d8479"
+GLEW_jll = "bde7f898-03f7-559e-8810-194d950ce600"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+libcxxwrap_julia_jll = "3eaa8342-bff7-56a5-9981-c04077f7cee7"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+GTK4_jll = "6ebb71f1-8434-552f-b6b1-dc18babcca63"
+libjulia_jll = "5ad3ddd2-0711-543a-b040-befd59781bbf"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
