@@ -1,8 +1,8 @@
 [[mousetrap_windows]]
 arch = "x86_64"
-git-tree-sha1 = "3f5e2eab79e8ccf2eb503ec5824fac0fc0078235"
+git-tree-sha1 = "97358faba12dfc55218a8c3966bf9ed44b13901b"
 os = "windows"
 
     [[mousetrap_windows.download]]
-    sha256 = "127c8684ac39463c53026c5fafef98a9c83fbf14ed127c58449797e592be511a"
-    url = "https://github.com/Clemapfel/mousetrap_windows_jll/releases/download/mousetrap_windows-v0.1.1+0/mousetrap_windows.v0.1.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "b001e221560b249eef661caca863969f1deebcbbed6bfbc3f52106b13e5213e0"
+    url = "https://github.com/Clemapfel/mousetrap_windows_jll/releases/download/mousetrap_windows-v0.1.0+0/mousetrap_windows.v0.1.0.x86_64-w64-mingw32.tar.gz"
