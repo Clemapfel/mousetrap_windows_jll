@@ -5,14 +5,12 @@ using GLEW_jll
 using GTK4_jll
 using OpenGLMathematics_jll
 using libcxxwrap_julia_jll
-using libjulia_jll
-using X11_jll
 using libadwaita_jll
 JLLWrappers.@generate_wrapper_header("mousetrap_windows")
 JLLWrappers.@declare_library_product(mousetrap, "libmousetrap.dll")
 JLLWrappers.@declare_library_product(mousetrap_julia_binding, "libmousetrap_julia_binding.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(GLEW_jll, GTK4_jll, OpenGLMathematics_jll, libcxxwrap_julia_jll, libjulia_jll, X11_jll, libadwaita_jll)
+    JLLWrappers.@generate_init_header(GLEW_jll, GTK4_jll, OpenGLMathematics_jll, libcxxwrap_julia_jll, libadwaita_jll)
     JLLWrappers.@init_library_product(
         mousetrap,
         "bin\\libmousetrap.dll",
