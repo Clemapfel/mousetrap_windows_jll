@@ -11,7 +11,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 The tarballs for `mousetrap_windows_jll.jl` have been built from these sources:
 
 * git repository: https://github.com/Clemapfel/mousetrap.git (revision: `ce80b9ac063170419ffd989921b7d975b74fda72`)
-* git repository: https://github.com/Clemapfel/mousetrap_julia_binding.git (revision: `b842c91aee0447f8d5cb4ed5f445d7252c39030d`)
+* git repository: https://github.com/Clemapfel/mousetrap_julia_binding.git (revision: `4f389b9a4d293c71c36b055dc2316905a33fca7e`)
 * file: https://dllfile.net/download/18762 (SHA256 checksum: `b8df8a508817b5f4d8cac6365e3fbf0e8952d50aa58ed9b5032ec5767e530aaa`)
 
 ## Platforms
